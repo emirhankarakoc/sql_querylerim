@@ -1,0 +1,18 @@
+# emirhan talisca, bugun muhabbet kus leonun vefat ettigini ogrendim.
+
+# -
+--SELECT DISTINCT replacement_cost FROM film;
+--
+--SELECT COUNT(DISTINCT replacement_cost) FROM film;
+--
+--SELECT * FROM film
+--WHERE (title LIKE ('T%')) AND (rating = 'G');
+--usttekinin COUNTlu hali
+--SELECT COUNT(DISTINCT title) FROM film
+--WHERE (title LIKE ('T%')) AND (rating = 'G');
+--
+--SELECT COUNT(DISTINCT country) FROM country
+--WHERE LENGTH(country) = 5;
+--
+--SELECT COUNT(city) FROM city
+--WHERE  city ILIKE '%r';
